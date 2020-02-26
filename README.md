@@ -1,3 +1,5 @@
+This is fork https://github.com/sylnsfar/qrcode. Add only cyrillic character support
+
 # QR-Code
 [*转到中文版*](https://github.com/sylnsfar/qrcode/blob/master/README-cn.md)
 
